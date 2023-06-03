@@ -1,0 +1,14 @@
+node_modules
+logs/*
+.DS_Store
+public/uploads
+public/goods_order_pdf
+public/bills
+public/invoices
+
+# env file
+.env
+
+# config file
+config/config.json
+
